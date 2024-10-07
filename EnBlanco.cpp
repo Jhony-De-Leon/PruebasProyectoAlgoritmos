@@ -33,3 +33,6 @@ int numero;
             cout << "Numero invalido. Por favor ingrese un numero del 1 al 4." << endl;
             break;
     }
+    
+    return 0;
+}//COMENTARIO DE PRUEBA QUE NO DA EL PULL
